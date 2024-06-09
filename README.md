@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech stuff
 - 🌱 I’m currently learning full stack engineering
 - 💞️ I’m looking to collaborate on anything related to software development
-- 📫 How to reach me https://www.x.com/ym_uniqueguy
+- 📫 How to reach me: Currently N/A
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a computer science enthusiast :)
 
