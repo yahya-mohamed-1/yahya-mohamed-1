@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yahya-mohamed-1
 - 👀 I’m interested in tech stuff
-- 🌱 I’m currently learning full stack software engineering
+- 🌱 BSc Computer Science graduate 🙂
 - 💞️ I’m looking to collaborate on anything related to software development
 - 📫 How to reach me: Currently N/A
 - 😄 Pronouns: He/Him
