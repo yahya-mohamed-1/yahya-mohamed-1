@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech stuff
 - 🌱 BSc Computer Science graduate 🙂
 - 💞️ I’m looking to collaborate on anything related to software development
-- 📫 How to reach me: <a href='https://yahyaww-portfolio.vercel.app' target='_blank'>Click here</a>
+- 📫 How to reach me: <a href="https://yahyaww-portfolio.vercel.app" target="_blank">Click here</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Programming is fun
 
